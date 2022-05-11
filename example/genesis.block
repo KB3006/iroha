@@ -30,10 +30,14 @@
                                 "can_get_all_signatories",
                                 "can_get_all_txs",
                                 "can_get_blocks",
+                                "can_get_peers",
                                 "can_get_roles",
                                 "can_read_assets",
                                 "can_remove_signatory",
-                                "can_set_quorum"
+                                "can_remove_peer",
+                                "can_set_quorum",
+                                "can_subtract_asset_qty
+                                
                              ]
                           }
                        },
